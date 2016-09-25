@@ -1,0 +1,122 @@
+Initialize engine version: 5.1.0f3 (ec70b008569d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 630M      (ID=0xde9)
+    Vendor:   NVIDIA
+    VRAM:     1999 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+Platform assembly: C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\Pathfinding.JsonFx.dll (this message is harmless)
+Loading C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\Pathfinding.JsonFx.dll into Unity Child Domain
+Platform assembly: C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\RAIN.dll (this message is harmless)
+Loading C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\RAIN.dll into Unity Child Domain
+Platform assembly: C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\RAINMetaform.dll (this message is harmless)
+Loading C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\RAINMetaform.dll into Unity Child Domain
+Platform assembly: C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\ProBuilderCore-Unity4.dll (this message is harmless)
+Loading C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\ProBuilderCore-Unity4.dll into Unity Child Domain
+Platform assembly: C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\ProBuilderMeshOps-Unity4.dll (this message is harmless)
+Loading C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\ProBuilderMeshOps-Unity4.dll into Unity Child Domain
+Platform assembly: C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\ProCore.dll (this message is harmless)
+Loading C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\ProCore.dll into Unity Child Domain
+Platform assembly: C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\SixBySeven.dll (this message is harmless)
+Loading C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\SixBySeven.dll into Unity Child Domain
+- Completed reload, in  0.096 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 4864x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\UNITY\MY PROJECTs\TDVR\TD VR_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1562)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1715)
+
+launchScreen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+launchScreen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Bij Campaign is geen Collider (3d) toegevoegd || VRButton.cs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Bij Newgame is geen Collider (3d) toegevoegd || VRButton.cs
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Shader 'Nature/Terrain/Specular': fallback shader 'Nature/Terrain/Diffuse' not found
+UnloadTime: 2.630954 ms
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 5076.
+Total: 0.937969 ms (FindLiveObjects: 0.141453 ms CreateObjectMapping: 0.085229 ms MarkObjects: 0.498435 ms  DeleteObjects: 0.212404 ms)
+
+IEnumerator WaitForAnimation
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+VOID AfterAnimation
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 71)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 71)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 71)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 71)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 71)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 71)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 71)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 71)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 71)
+
